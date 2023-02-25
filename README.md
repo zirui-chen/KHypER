@@ -6,7 +6,7 @@
 
 **Demo Presentation:** https://github.com/zirui-chen/KHypER/blob/main/IJCAI2023%20Demo%20Presentation.pdf
 
-**It is worth noting that the core new method HyperMLN used in our demo has been accepted by CIKM 2023 (). The paper and code link are as follows:**
+**It is worth noting that the core new method HyperMLN used in our demo has been accepted by CIKM 2023 (Explainable Link Prediction in Knowledge Hypergraphs). The paper and code link are as follows:**
 
 - **Paper:** https://dl.acm.org/doi/abs/10.1145/3511808.3557316
 
